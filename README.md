@@ -65,7 +65,7 @@ Make sure you have the following installed:
 ##License
 This project is licensed under the MIT License.   
    
-***
+
 
 # Question-Box
 
