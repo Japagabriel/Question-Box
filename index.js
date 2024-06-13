@@ -1,8 +1,12 @@
 const express = require("express");
-const App = express();
+const app = express();
+
+app.get("/",function(req,res){
+    res.send("Olá mundo!");
+});
 
 
-App.listen(8080 ,function(erro){
+app.listen(8080 ,function(erro){
     if (erro){
         console.log(erro);
     }else{
