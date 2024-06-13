@@ -1,0 +1,23 @@
+{
+  "name": "question-box",
+  "version": "1.0.0",
+  "description": "Plataforma de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Japagabriel/Question-Box.git"
+  },
+  "author": "Japagabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Japagabriel/Question-Box/issues"
+  },
+  "homepage": "https://github.com/Japagabriel/Question-Box#readme",
+  "dependencies": {
+    "eslint": "^9.4.0",
+    "express": "^4.19.2"
+  }
+}
